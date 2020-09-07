@@ -1,5 +1,7 @@
 Shopping List
 
+Updated by first collaborator
+
 apples
 bananas
 yogurt
