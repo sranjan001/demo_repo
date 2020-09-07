@@ -2,13 +2,13 @@ Shopping List
 
 Updated by first collaborator
 
-apples
+red apples
 bananas
 yogurt
 milk
 bread
 cereal
-eggs
+12 eggs
 bacon
 orange juice
 grapes
@@ -19,4 +19,5 @@ soup
 ice cream
 sugar
 flour
+butter
 
